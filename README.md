@@ -1,4 +1,4 @@
-# art
+# AI art
 art-of-art-of-christmasfreud
 **# AI Art Generation Project
 
